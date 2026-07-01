@@ -1,0 +1,4 @@
+#mixing int and float gives float
+print (4/2)
+print (1 +2.0)
+print( 3.0**2 )
